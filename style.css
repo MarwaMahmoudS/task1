@@ -1,0 +1,53 @@
+body {
+	
+    background: url("imgs/pic1.png"); 
+    }
+.container{
+	background: rgba(255,255,255,0.8);
+    margin-left: 8% ;
+    margin-right: 8%;
+    line-height: 20px;
+}
+.profile-pic .part1 img{
+	margin: 15px;
+	border: 2px solid #B00000;
+}
+.profile-pic .part2 h1{
+	color: #B00000;
+	margin-left: 15px;
+}
+.profile-pic .part2 p{
+	margin-left: 15px;
+	margin-bottom: 15px;
+	font-size: 20px;
+	line-height: 30px;
+}
+.profile-pic .part3 p{
+	margin-left: 15px;
+	margin-bottom: 8px;
+	font-size: 20px;
+	color: #B00000;
+
+}
+.profile-pic .part3 li{
+	margin-bottom: 15px;
+	font-size: 20px;
+	
+}
+
+.profile-pic .part3 ul{
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	
+	
+}
+.contact-icon a img{
+	width: 50px;
+	height: 50px;
+	float: right;
+	margin: 10px;
+	border: 1px solid white;
+}
+.contact-icon a:hover img{
+	border: 1px solid red;
+}
